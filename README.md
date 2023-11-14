@@ -4,7 +4,7 @@ This password generator is a user-friendly web application that allows you to ea
 
 With this app you can easily create strong and unique passwords to enhance your online security and protect your sensitive information.
 
-![Password Generator App](./Develop/assets/app%20screenshot.png)
+![Password Generator App](./assets/app%20screenshot.png)
 
 ## Features
 
