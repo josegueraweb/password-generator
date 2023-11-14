@@ -29,11 +29,13 @@ The best way of contributing to this project is to help refactor the code! Sugge
 ## Credits
 GitHub: @josegueraweb
 
-[SOURCE](https://github.com/josegueraweb/password-generator)
+- [SOURCE](https://github.com/josegueraweb/password-generator)
+
+- [LIVE SITE](https://josegueraweb.github.io/password-generator/)
 
 ## License
 This project is protected under the MIT License.
 
 ## Badges
-None
+None.
 
